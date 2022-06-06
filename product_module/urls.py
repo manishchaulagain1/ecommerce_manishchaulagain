@@ -1,5 +1,9 @@
 from django.urls import path
-from .views import index
+
+from .views import search, cart, removecart
+
 urlpatterns = [
-    path('', index),
+    path('', search),
+    path('cart/', cart),
+    path('cart/remove/<int:id>', removecart),
 ]
