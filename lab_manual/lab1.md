@@ -94,7 +94,7 @@ Django is a Python-based web framework, free and open-source, that follows the m
 
 ## Output 
 
-We performed basic setup and configured the necessary settings for further progress in the ecommerce project.The database and tables have been initialized and created. We can verify and check the output by going to the admin backend in the browser 'http://127.0.0.1:8000/admin'.Also, we were able to perform any CRUD operation as desired in the Brand section.
+We performed basic setup and configured the necessary settings for further progress in the ecommerce project.The database and tables have been initialized and created. We can verify and check the output by going to the admin backend in the browser 'http://127.0.0.1:8000/admin'. Also, we were able to perform any CRUD operation as desired in the Brand section.
 
 ## Conclusion
 
