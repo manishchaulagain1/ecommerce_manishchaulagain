@@ -85,9 +85,7 @@ The basics:
 ***
 
 ## Output 
-G:\djangoproject\ecommerce_manishchaulagain\lab_manual\assets\lab2.1.png
-G:\djangoproject\ecommerce_manishchaulagain\lab_manual\assets\lab2.2.png
-G:\djangoproject\ecommerce_manishchaulagain\lab_manual\assets\lab2.3.png
+
 
 ## Conclusion
 
