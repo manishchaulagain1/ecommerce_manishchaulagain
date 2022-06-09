@@ -1,6 +1,5 @@
 from django.contrib import admin
 from .models import PaymentGateway
-from .models import CartItem
 # Register your models here.
 
 class PaymentGatewayAdmin(admin.ModelAdmin):
@@ -9,4 +8,3 @@ class PaymentGatewayAdmin(admin.ModelAdmin):
     class Meta: 
         model = PaymentGateway
 admin.site.register(PaymentGateway, PaymentGatewayAdmin)
-admin.site.register(CartItem)
