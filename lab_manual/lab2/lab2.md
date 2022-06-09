@@ -85,9 +85,9 @@ The basics:
 
 ## Output 
 
-![](assets%5Clab2.1.png)
-![](assets%5Clab2.2.png)
-![](assets%5Clab2.3.png)
+![](https://github.com/manishchaulagain1/ecommerce_manishchaulagain/blob/main/lab_manual/lab2/assets/lab2.1.png)
+![](https://github.com/manishchaulagain1/ecommerce_manishchaulagain/blob/main/lab_manual/lab2/assets/lab2.2.png)
+![](https://github.com/manishchaulagain1/ecommerce_manishchaulagain/blob/main/lab_manual/lab2/assets/lab2.3.png)
 
 ## Conclusion
 
