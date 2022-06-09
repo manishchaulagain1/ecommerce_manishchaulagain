@@ -81,13 +81,13 @@ The basics:
 
         python manage.py runserver
 
-
 ***
 
 ## Output 
-![output](lab_manual\lab2\assets\lab2.1.png)
-![output](lab_manual\lab2\assets\lab2.2.png)
-![output](lab_manual\lab2\assets\lab2.3.png)
+
+![](assets%5Clab2.1.png)
+![](assets%5Clab2.2.png)
+![](assets%5Clab2.3.png)
 
 ## Conclusion
 
