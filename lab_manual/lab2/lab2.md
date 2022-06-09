@@ -85,7 +85,9 @@ The basics:
 ***
 
 ## Output 
-
+![output](lab_manual\lab2\assets\lab2.1.png)
+![output](lab_manual\lab2\assets\lab2.2.png)
+![output](lab_manual\lab2\assets\lab2.3.png)
 
 ## Conclusion
 
