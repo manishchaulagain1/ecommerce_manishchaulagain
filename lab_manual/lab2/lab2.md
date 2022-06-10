@@ -91,4 +91,4 @@ The basics:
 
 ## Conclusion
 
-Here from this lab session we got to know about how to create a model, edit the model in an appropriate manner, and enter and evaluate the entered data in the django server database.
+Here from this lab session we got to know about how to create a model, edit the model in an appropriate manner, enter and evaluate the entered data in the django server database.
