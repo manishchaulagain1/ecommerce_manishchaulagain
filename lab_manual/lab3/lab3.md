@@ -81,6 +81,9 @@ Usage of mark_safe is to mark a custom string as a safe string for HTML/output r
 
 ## Output 
 
+![](https://github.com/manishchaulagain1/ecommerce_manishchaulagain/blob/main/lab_manual/lab3/assets/lab3.1.png)
+![](https://github.com/manishchaulagain1/ecommerce_manishchaulagain/blob/main/lab_manual/lab3/assets/lab3.2.png)
+![](https://github.com/manishchaulagain1/ecommerce_manishchaulagain/blob/main/lab_manual/lab3/assets/lab3.3.png)
 
 ## Conclusion
 
