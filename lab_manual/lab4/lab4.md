@@ -234,7 +234,7 @@ The syntax of the Django template language involves four constructs:
 
 ## Output 
 
-![]()
+![](https://github.com/manishchaulagain1/ecommerce_manishchaulagain/blob/main/lab_manual/lab4/assets/lab4.png)
 
 ## Conclusion
 
