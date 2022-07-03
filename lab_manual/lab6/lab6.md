@@ -171,7 +171,7 @@ A shopping cart is an essential part of a retailer's online store that enhances 
 
 ## Output 
 
-![]()
+![](https://github.com/manishchaulagain1/ecommerce_manishchaulagain/blob/main/lab_manual/lab6/assets/lab6.PNG)
 
 ## Conclusion
 
