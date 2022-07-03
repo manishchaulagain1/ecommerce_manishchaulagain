@@ -59,7 +59,9 @@ A payment gateway allows a firm to −
 
 ## Output 
 
-![]()
+![](https://github.com/manishchaulagain1/ecommerce_manishchaulagain/blob/main/lab_manual/lab7/assets/Lab7.PNG)
+![](https://github.com/manishchaulagain1/ecommerce_manishchaulagain/blob/main/lab_manual/lab7/assets/Lab7.1.PNG)
+![](https://github.com/manishchaulagain1/ecommerce_manishchaulagain/blob/main/lab_manual/lab7/assets/Lab7.2.PNG)
 
 ## Conclusion
 
